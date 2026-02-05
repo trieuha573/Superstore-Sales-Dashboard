@@ -2,12 +2,10 @@
 ## Page 1: Sales Performance Overview
 
 <img width="1310" height="743" alt="dashboard_overview" src="https://github.com/user-attachments/assets/fc84d3b1-e455-440c-bf8b-29c2029ee05b" />
----
 
 ## Page 2: Customer Behavior Analysis
 
 <img width="1310" height="742" alt="dashboard_product" src="https://github.com/user-attachments/assets/03309f3d-f747-41c9-adbc-651f0961f5c9" />
----
 
 ## Page 3: Product & Regional Insights
 
