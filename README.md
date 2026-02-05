@@ -10,7 +10,6 @@
 ## Page 3: Product & Regional Insights
 
 <img width="1311" height="737" alt="dashboard_customer" src="https://github.com/user-attachments/assets/36e0b62d-e911-48ac-ab72-145ab61eab02" />
----
 
 ## 📌 Project Overview
 
